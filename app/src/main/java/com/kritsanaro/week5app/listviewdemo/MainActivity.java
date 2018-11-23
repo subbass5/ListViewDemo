@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
     ListView lv_data;
     String [] arr_data =
-            {"Android","IOS","Windows Phone","OSX","Ubuntu"};
+            {"Android","IOS","Windows Phone","OSX","Ubuntu","ขี้เหล้าปวส.1"};
     ArrayAdapter arrayAdapter;
 
     Context context;
